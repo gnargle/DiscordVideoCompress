@@ -6,4 +6,4 @@ Download ffmpeg from [here](https://github.com/BtbN/FFmpeg-Builds/releases) and 
 
 To customize the filesize limit, change the FILE_LIMIT value from 50 to whatever you want. Some suggestions for the discord file sizes are given above.
 
-Then to compress your video, just drag and drop the video file on to the .cmd - after it's done converting, a file with the same name with the size suffixed at the end should appear in the folder.
+Then to compress your video, just drag and drop the video file on to the .cmd - after it's done converting, a file with the same name with the size suffixed at the end should appear in the folder the script is in.
