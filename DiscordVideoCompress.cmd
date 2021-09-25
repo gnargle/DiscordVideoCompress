@@ -11,7 +11,6 @@ ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:no
 set /p seconds= < tmpFile
 del tmpFile
 
-:SET /P seconds=How many seconds is the video? 
 SET /A "totalBitrate=FILE_B/seconds"
 echo totalbitrate: %totalBitrate%
 
